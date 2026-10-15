@@ -1,0 +1,23 @@
+1. Descriere: Aplicație mobilă pentru crearea și personalizarea ținutelor vestimentare pe un avatar 3D.
+
+2. Scop: Explorarea stilurilor vestimentare și combinarea hainelor într-un mod interactiv.
+
+3. Obiective:
+- Catalog de haine și detalii despre produse.
+- Avatar 3D cu haine personalizabile.
+- Salvarea ținutelor preferate.
+- Integrarea unui API extern.
+- Opțional, recomandări cu AI.
+
+4. Utilizatori: Persoane pasionate de modă, shopping și personalizare digitală.
+
+5. Use case-uri: Explorare haine, vizualizare detalii, creare ținute, schimbare haine pe avatar și salvarea combinațiilor.
+
+6. Tehnologii: Android Studio, Java, API REST, Room/SQLite și o soluție 3D compatibilă cu Android.
+
+7. Împărțirea sarcinilor:
+- Dariana: interfață, navigare, catalog și API.
+- Emma: avatar 3D, schimbarea hainelor și stocare locală.
+- Împreună: integrare, testare și prezentare.
+
+8. Dezvoltări opționale: recomandări AI, mai multe avatare și realitate augmentată.
