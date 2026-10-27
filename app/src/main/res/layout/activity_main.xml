@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="#FFF8F5">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FASHION MIRROR"
+        android:textColor="#6D3B50"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:letterSpacing="0.08"
+        android:layout_marginBottom="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stilul tău. Regulile tale."
+        android:textColor="#765C66"
+        android:textSize="18sp"
+        android:layout_marginBottom="36dp" />
+
+    <Button
+        android:id="@+id/btnCatalog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Explorează hainele"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#8E536A"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnSavedOutfits"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ținutele mele"
+        android:textColor="#6D3B50"
+        android:backgroundTint="#EBD8DF" />
+
+</LinearLayout>

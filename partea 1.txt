@@ -1,0 +1,27 @@
+Până acum, la aplicația Fashion Mirror, am făcut următoarele:
+1. Configurarea proiectului
+- Am instalat Java JDK 17 și Android Studio.
+- Am configurat Android SDK și emulatorul Android.
+2. Pagina principală
+- Am creat ecranul principal cu numele FASHION MIRROR.
+- Am adăugat sloganul „Stilul tău. Regulile tale.”
+- Am pus butoanele „Explorează hainele” și „Ținutele mele”.
+- Am făcut navigarea spre catalog.
+3. Catalogul de haine
+- Am creat interfața catalogului în activity_catalog.xml.
+- Am adăugat categoriile: bluze, pantaloni și fuste, rochii, încălțăminte și accesorii.
+- Am pregătit CatalogActivity.java pentru afișarea produselor.
+- Am adăugat produse demonstrative cu denumiri, emoji-uri și prețuri fictive.
+- Am implementat filtrarea produselor după categorie și afișarea unui mesaj la apăsarea unui produs.
+
+Tehnologii folosite
+- Java — logica aplicației.
+- XML — interfețele grafice.
+- Android Studio — rularea și testarea aplicației.
+- VS Code — scrierea codului.
+
+Ce mai avem de făcut:
+1. Să înlocuim emoji-urile cu imagini reale ale hainelor.
+2. Să implementăm salvarea și ștergerea ținutelor.
+3. Să dezvoltăm funcția principală: personalizarea virtuală a ținutelor pe un avatar.
+4. Să testăm aplicația și să pregătim documentația.
